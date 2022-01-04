@@ -1,0 +1,24 @@
+- text: >
+    mysql --user=doadmin --password=strongp@55! --host=db-mysql-ams3-23775-do-user-7772205-0.a.db.ondigitalocean.com
+  host: db-mysql-ams3-23775-do-user-7772205-0.a.db.ondigitalocean.com
+  username: doadmin
+  password: strongp@55!
+
+- text: >
+    mysql --user=doadmin --password=strongp@55! --host=12.76.135.14
+  host: 12.76.135.14
+  username: doadmin
+  password: strongp@55!
+
+- text: >
+    mysql -udoadmin -pstrongp@55! --host=db-mysql-ams3-23775-do-user-7772205-0.a.db.ondigitalocean.com
+  host: db-mysql-ams3-23775-do-user-7772205-0.a.db.ondigitalocean.com
+  username: doadmin
+  password: strongp@55!
+
+# Test multispace
+- text: >
+    mysql -u      doadmin -pstrongp@55! --host     db-mysql-ams3-23775-do-user-7772205-0.a.db.ondigitalocean.com
+  host: db-mysql-ams3-23775-do-user-7772205-0.a.db.ondigitalocean.com
+  username: doadmin
+  password: strongp@55!

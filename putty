@@ -1,0 +1,8 @@
+Putty Private Key
+
+- text: "Public-Lines: 2\nAAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAGy1qMgVWUX\nWuwutzBih9BLjlgkHkIRzzGiVMALRg7hwlXUWmhhI46KzdS9yWu1jZ7hxH6EaDOO\nPrivate-Lines: 2\nF228r/oPiCTtvKkXn9X2ZbsRsDaZSqon/apnpteXJRLqn+CocudYFp8eXOEp/Yj\n7N3k99xbStzH//cje6EELhg1uJ0R9dXs3cTe7H8Lf0=\nPrivate-MAC: c9df7f8d46e853c618cdb1f2c246b70d2aea7c73"
+  filename: virtualmachine/vm029.ppk
+  apikey: "F228r/oPiCTtvKkXn9X2ZbsRsDaZSqon/apnpteXJRLqn+CocudYFp8eXOEp/Yj\n7N3k99xbStzH//cje6EELhg1uJ0R9dXs3cTe7H8Lf0="
+- text: "Public-Lines: 2\nAAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAGy1qMgVWUX\nWuwutzBih9BLjlgkHkIRzzGiVMALRg7hwlXUWmhhI46KzdS9yWu1jZ7hxH6EaDOO\nPrivate-Lines: 2\nF228r/oPiCTtvKkXn9X2ZbsRsDaZSqon/apnpteXJRLqn+CocudYFp8eXOEp/Yj\n7N3k99xbStzH//cje6EELhg1uJ0R9dXs3cTe7H8Lf0=\nPrivate-MAC: c9df7f8d46e853c618cdb1f2c246b70d2aea7c73"
+  filename: vm/priv_key
+  apikey: "F228r/oPiCTtvKkXn9X2ZbsRsDaZSqon/apnpteXJRLqn+CocudYFp8eXOEp/Yj\n7N3k99xbStzH//cje6EELhg1uJ0R9dXs3cTe7H8Lf0="

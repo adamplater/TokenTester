@@ -1,0 +1,20 @@
+- text: >
+    CONNECTION_URI="oracle://root:m42ploz2wd@google.com:5434/thegift"
+  host: google.com
+  port: "5434"
+  username: root
+  password: m42ploz2wd
+  scheme: oracle
+  database: thegift
+  connection_uri: oracle://root:m42ploz2wd@google.com:5434/thegift
+
+# Test special characters in password
+- text: >
+    CONNECTION_URI="oracle://root:m42p!o@2wd@google.com:5434/thegift"
+  host: google.com
+  port: "5434"
+  username: root
+  password: m42p!o@2wd
+  scheme: oracle
+  database: thegift
+  connection_uri: oracle://root:m42p!o@2wd@google.com:5434/thegift

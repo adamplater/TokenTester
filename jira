@@ -1,0 +1,42 @@
+Jira Basic Auth
+
+- text: >
+    +    public function __construct()
+    +    {
+    +        $this->creds = new ArrayConfiguration([
+    +            'jiraHost' => 'https://triggergg.atlassian.net',
+    +            'jiraUser' => 'dbarrette@triggergg.com',
+    +            'jiraPassword' => '6ZIHOIeNl1GbNFIb7h6ID4EC6ZIHOIeNl1GbNFIb7h6ID4EC',
+    +        ]);
+    +    }
+
+  client_id: dbarrette@triggergg.com
+  client_secret: 6ZIHOIeNl1GbNFIb7h6ID4EC6ZIHOIeNl1GbNFIb7h6ID4EC
+  host: https://triggergg.atlassian.net
+
+- text: >
+    JIRA_USERNAME="staging-admin@hellothere.com"
+    JIRA_PASSWORD="stagingadmin132"
+    JIRA_ENDPOINT="https://support-staging.hellothere.com/jira"
+  client_id: staging-admin@hellothere.com
+  client_secret: stagingadmin132
+  host: https://support-staging.hellothere.com
+
+Jira Token
+
+- text: >
+    @@ -0,0 +1,10 @@
+    +package com.qa.jira;
+    +
+    +public class JiraUtil {
+    +
+    +   public static final String JIRA_URL = "https://ggfoundme.atlassian.net";
+    +
+    +   public static final String JIRA_USERNAME = "ggfoundme2007@gmail.com";
+    +   public static final String JIRA_PASSWORD = "VDOheDe1sSCeGkuTARhkFDE2";
+    +   public static final String JIRA_PROJECT = "VNTPRJCT12";
+    +}
+
+  host: https://ggfoundme.atlassian.net
+  username: ggfoundme2007@gmail.com
+  token: VDOheDe1sSCeGkuTARhkFDE2

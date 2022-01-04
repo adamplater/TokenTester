@@ -1,0 +1,16 @@
+Salesforce Oauth2 Keys
+
+- text: >
+    salesforce CONSTANTS +// ----------------------------------------------------------
+    +const CONSUMER_KEY = "3MVG9fTLmJ60pJ5I6fu3pPjYrPcxc.hs9.5cx074wlhqP52juB8I1iQUTP5MHlqCY9uhwje09N3YCxBIGGxlI";
+    +const CONSUMER_SECRET = "3475296048548367986";
+  client_id: "3MVG9fTLmJ60pJ5I6fu3pPjYrPcxc.hs9.5cx074wlhqP52juB8I1iQUTP5MHlqCY9uhwje09N3YCxBIGGxlI"
+  client_secret: "3475296048548367986"
+
+Salesforce Refresh Tokens
+
+- text: >
+    String refresh_token = "5Aep861..zRMyCurAUqXuPX5uJN1Yk7ghc6h4Cv7m6IPMhhMvOivwnD7dLeOFes5eM6el.JJ8pgW8h3tTQ3gnrr";
+    String access_token = "00D6F000002Tjy4!AQgAQK9zwJVvIAe2jK0Gd1SAhMTh0GCfrNk7QKAoSqjmlXwR71qctjLAyH.3itQcVKbspfGOdgazIk7oSwWniS0wxmhUj0Bs";
+  refresh_token: 5Aep861..zRMyCurAUqXuPX5uJN1Yk7ghc6h4Cv7m6IPMhhMvOivwnD7dLeOFes5eM6el.JJ8pgW8h3tTQ3gnrr
+  access_token: 00D6F000002Tjy4!AQgAQK9zwJVvIAe2jK0Gd1SAhMTh0GCfrNk7QKAoSqjmlXwR71qctjLAyH.3itQcVKbspfGOdgazIk7oSwWniS0wxmhUj0Bs

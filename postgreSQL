@@ -1,0 +1,29 @@
+- text: >
+    docker run --name geonetwork -d -p 8080:8080 -e PG_HOST=google.com -e PG_PORT=5434 -e PG_USERNAME=postgres -e PG_PASSWORD=m42ploz2wd geonetwork
+  host: google.com
+  port: "5434"
+  username: postgres
+  password: m42ploz2wd
+
+- text: >
+    Assignement
+    dbusername = doadmin
+    dbpassword = vg498hwegw1udp6s
+    dbhost = db-postgres-nyc1-76477-do-user-1391911-0.db.ondigitalocean.com
+    dbport = 25060
+    dbdatabase = defaultdb
+    dbsslmode = require
+  username: doadmin
+  password: vg498hwegw1udp6s
+  host: db-postgres-nyc1-76477-do-user-1391911-0.db.ondigitalocean.com
+  port: "25060"
+
+- text: >
+    server.port=5433
+    spring.datasource.postgres.hikari.jdbc-url=jdbc:postgresql://google.com/postgres
+    spring.datasource.postgres.hikari.username=postgres
+    spring.datasource.postgres.hikari.password=m42ploz2wd
+  host: google.com
+  port: "5433"
+  username: postgres
+  password: m42ploz2wd

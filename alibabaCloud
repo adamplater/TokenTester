@@ -1,0 +1,30 @@
+- text: >
+    $accessKeyId = "LTAIFTKZ5BhleEv7";
+    $accessKeySecret = "5oaoB4apSI5fFSGZc4323cp02WzDd6";
+    $product = "Dysmsapi";
+    $domain = "dysmsapi.aliyuncs.com";
+  client_id: LTAIFTKZ5BhleEv7
+  client_secret: 5oaoB4apSI5fFSGZc4323cp02WzDd6
+
+- text: >
+    Aliyun::OSS::Base.establish_connection!(
+      :access_key_id     => 'LTAIouVgukW3Kiv7',
+      :secret_access_key => 'OjiHGBIiKuRjSMxDeCtCuT8d2VrLZT'
+    )
+  client_id: LTAIouVgukW3Kiv7
+  client_secret: OjiHGBIiKuRjSMxDeCtCuT8d2VrLZT
+
+- text: >
+    Aliyun::OSS::Base.establish_connection!(
+      :access_key_id     => 'LTAIx2g1F8gZe8SD',
+      :secret_access_key => 'cVJoHKSh375Al7il90DuQD7Fo3GiPG'
+    )
+  client_id: LTAIx2g1F8gZe8SD
+  client_secret: cVJoHKSh375Al7il90DuQD7Fo3GiPG
+
+- text: >
+    access_key_id = 'LTAI5tXXt9eF7t5YJQ1uxSxx'
+    secret_access_key = 'cVJoHKSh375Al7il90DuQD7Fo3GiPG'
+  client_id: LTAI5tXXt9eF7t5YJQ1uxSxx
+  client_secret: cVJoHKSh375Al7il90DuQD7Fo3GiPG
+asdzf

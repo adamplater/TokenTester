@@ -1,0 +1,59 @@
+GitHub Access Token
+
+- text: "github_token: 368ac3edf9e850d1c0ff9d6c526496f8237ddf19"
+  apikey: 368ac3edf9e850d1c0ff9d6c526496f8237ddf19
+
+- text: >
+    GitHub(81c4ef6cabcf4473bb98b28de4fb9ac606b97f6b)
+  apikey: 81c4ef6cabcf4473bb98b28de4fb9ac606b97f6b
+
+- text: >
+    GitHubToken = 81c4ef6cabcf4473bb98b28de4fb9ac606b97f61
+  apikey: 81c4ef6cabcf4473bb98b28de4fb9ac606b97f61
+
+- text: >
+    GitHubToken = "81c4ef6cabcf4473bb98b28de4fb9ac606b97f62"
+  apikey: 81c4ef6cabcf4473bb98b28de4fb9ac606b97f62
+
+GitHub App Keys
+
+- text: >
+    Owned by @GitGuard
+    App ID 36327
+    Client ID Iv1.923233af7a5c81af
+    Client secret 7dfc7a8b97409e216c35b21e4008938d599def9a
+  client_id: Iv1.923233af7a5c81af
+  client_secret: 7dfc7a8b97409e216c35b21e4008938d599def9a
+
+GitHub Enterprise Token
+
+- text: >
+    repoURL = "https://github.leakyleaky.com/leaman/documents.git" - githubAccessToken = "367d3c02f1dc622d340efc5493cea73f3cb924e4"
+
+  apikey: 367d3c02f1dc622d340efc5493cea73f3cb924e4
+  host: github.leakyleaky.com
+
+- text: >
+    +   niqaprocessorgroupid: "8602a810-0164-1000-0000-00005160603a"
+    +   githubtoken: '28e204929a1e8ebaeb946a76348336fc7fffddbe'
+    +   githubrepo: 'https://github.leakyleaky.com/raw/platform/nifikls-flows'
+    +   niencryptionserver: http://aspi-1.dev.invitation.com:11003/encrypt
+
+  apikey: 28e204929a1e8ebaeb946a76348336fc7fffddbe
+  host: github.leakyleaky.com
+
+- text: >
+    ! [rejected]        use_svc_calls_gdco_gpgx -> use_svc_calls_gdco_gpgx (fetch first)
+    error: failed to push some refs to 'https://7b476decd32f22e2d9c00e5836b56a25d7d6e562@ccgithub.dev.leaks.com/user/altnav.git'
+    hint: Updates were rejected because the remote contains work that you do
+
+  apikey: 7b476decd32f22e2d9c00e5836b56a25d7d6e562
+  host: ccgithub.dev.leaks.com
+
+GitHub OAuth App Keys
+- text: >
+    gitalk:
+      clientID: c151f93feb034ed7da85
+      clientSecret: 0fd3f9942d1e65a267a5541ee1fc31d78d8aefda
+  client_id: c151f93feb034ed7da85
+  client_secret: 0fd3f9942d1e65a267a5541ee1fc31d78d8aefda

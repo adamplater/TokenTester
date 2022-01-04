@@ -1,0 +1,45 @@
+Slack Application Credentials
+
+- text: |
+    slack_id: 1489795176992.1423423423544
+    slack_secret: b52f435d423d8ae2103739d49ab994bb
+  client_id: "1489795176992.1423423423544"
+  client_secret: b52f435d423d8ae2103739d49ab994bb
+
+- text: |
+    SLACK_CLIENT_ID = '730191371696.1410179799087'
+    SLACK_CLIENT_SECRET = 'f90dd63cdcb13662a6f4b008081c1542'
+  client_id: "730191371696.1410179799087"
+  client_secret: "f90dd63cdcb13662a6f4b008081c1542"
+
+Slack App Token
+
+- text: 'headers={"Authorization": f"Bearer xapp-1-IEMF8IMY1OQ-4037076220459-85c370b433e366de369c4ef5abdf41253519266982439a75af74a3d68d543fb6"}'
+  apikey: xapp-1-IEMF8IMY1OQ-4037076220459-85c370b433e366de369c4ef5abdf41253519266982439a75af74a3d68d543fb6
+- text: MY_SLACK_TOKEN = 'xapp-1-BM3V7LC51DA-1441525068281-86641a2582cd0903402ab523e5bcc53b8253098c31591e529b55b41974d2e82f'
+  apikey: xapp-1-BM3V7LC51DA-1441525068281-86641a2582cd0903402ab523e5bcc53b8253098c31591e529b55b41974d2e82f
+
+Slack User Token
+
+- text: >
+    token = "xoxp-41684372915-1320496754-45609968301-e708ba56e1517a99f6b5fb07349476ef"
+  apikey: xoxp-41684372915-1320496754-45609968301-e708ba56e1517a99f6b5fb07349476ef
+- text: >
+    slack_old_token = "xoxs-416843729158-132049654-5609968301-e708ba56e1"
+  apikey: xoxs-416843729158-132049654-5609968301-e708ba56e1
+
+Slack Webhook URL
+
+- text: >
+    email_subscription_slack: "https://hooks.slack.com/services/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"
+  apikey: hooks.slack.com/services/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
+- text: >
+    email_subscription_slack: "https://hooks.slack.com/services/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"
+  apikey: hooks.slack.com/services/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
+  
+  Slack Bot Token
+
+- text: "slack_client = SlackClient('xoxb-263594206564-FGqddMF8t08v8N7Oq4i57vs1')"
+  apikey: xoxb-263594206564-FGqddMF8t08v8N7Oq4i57vs1
+- text: MY_SLACK_TOKEN = 'xoxb-263594206564-2343594206574-FGqddMF8t08v8N7Oq4i57vs1MBS')"
+  apikey: xoxb-263594206564-2343594206574-FGqddMF8t08v8N7Oq4i57vs1MBS

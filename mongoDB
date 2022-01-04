@@ -1,0 +1,25 @@
+- text: >
+    docker run --name mongo -d -p 8080:8080
+    DB_HOST=mongo.com
+    DB_PORT=5434
+    DB_username=root
+    DB_password=m42ploz2wd
+    DB_NAME=paul
+  host: mongo.com
+  port: "5434"
+  username: root
+  password: m42ploz2wd
+  database: paul
+
+- text: >
+    docker run --name mongo -d -p 8080:8080
+    DB-HOST=mongo.com
+    DB-PORT=5434
+    DB-username=root
+    DB-password=m42ploz2wd
+    DB-NAME=paul
+  host: mongo.com
+  port: "5434"
+  username: root
+  password: m42ploz2wd
+  database: paul
